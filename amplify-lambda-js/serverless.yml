@@ -2,7 +2,6 @@
   frameworkVersion: '3'
 
   plugins:
-    - serverless-offline
     - serverless-prune-plugin 
 
   custom:
