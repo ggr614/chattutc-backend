@@ -1,0 +1,43 @@
+# Python
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+__pycache__/
+core/
+Include/
+lib/
+Scripts/
+
+# Environment
+.*venv
+.env*
+.*venv
+.requirements.zip*
+.*venv
+
+
+# Serverless
+.serverless
+/package
+
+# Node.js
+node_modules
+
+# macOS
+.DS_Store
+
+# IDE
+.idea

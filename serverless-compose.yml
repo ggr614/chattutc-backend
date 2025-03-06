@@ -1,0 +1,33 @@
+# serverless-compose.yml
+services:
+  amplify-assistants:
+    path: ./amplify-assistants
+
+
+  chat-billing:
+    path: ./chat-billing
+
+  
+  amplify-embedding:
+    path: ./embedding
+  
+  amplify-object-access:
+    path: ./object-access
+
+  amplify-lambda-optimizer:
+    path: ./amplify-lambda-optimizer
+
+
+  amplify-lambda-api:
+    path: ./amplify-lambda-api
+
+  
+  amplify-lambda-artifacts:
+    path: ./amplify-lambda-artifacts
+
+
+  amplify-lambda-ops:
+    path: ./amplify-lambda-ops
+
+  
+
